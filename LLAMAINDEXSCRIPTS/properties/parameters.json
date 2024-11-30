@@ -1,0 +1,7 @@
+{
+    "model_id":"GRANITE_13B_CHAT_V2",
+    "decoding_method": "DecodingMethods.GREEDY",
+    "min_new_tokens": 1,
+    "max_new_tokens": 100,
+    "stop_sequences": "<|endoftext|>"
+}
